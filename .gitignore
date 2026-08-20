@@ -1,0 +1,21 @@
+# Node / build
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Claude Code local state (may contain credentials/auth tokens)
+.claude/settings.local.json
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

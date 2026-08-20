@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-ssr
+pnpm-lock.yaml
+
+# Spec Kit tooling/docs, not project source
+.claude
+.specify
+specs
